@@ -1,0 +1,189 @@
+[2023-02-24 10:43:01Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO HostContext] Well known config file 'Credentials': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO HostContext] Well known config file 'Runner': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.runner'
+[2023-02-24 10:43:01Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-02-24 10:43:01Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-02-24 10:43:01Z INFO Listener] Version: 2.301.1
+[2023-02-24 10:43:01Z INFO Listener] Commit: f764f5dfa75a74600ef491599be8d4fea33ccdaf
+[2023-02-24 10:43:01Z INFO Listener] Culture: en-IN
+[2023-02-24 10:43:01Z INFO Listener] UI Culture: en-US
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO Listener] Validating directory permissions for: 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO CommandLineParser] Parse
+[2023-02-24 10:43:01Z INFO CommandLineParser] Parsing 5 args
+[2023-02-24 10:43:01Z INFO CommandLineParser] parsing argument
+[2023-02-24 10:43:01Z INFO CommandLineParser] HasArgs: False
+[2023-02-24 10:43:01Z INFO CommandLineParser] Adding Command: configure
+[2023-02-24 10:43:01Z INFO CommandLineParser] parsing argument
+[2023-02-24 10:43:01Z INFO CommandLineParser] HasArgs: True
+[2023-02-24 10:43:01Z INFO CommandLineParser] arg: url
+[2023-02-24 10:43:01Z INFO CommandLineParser] parsing argument
+[2023-02-24 10:43:01Z INFO CommandLineParser] HasArgs: True
+[2023-02-24 10:43:01Z INFO CommandLineParser] Adding option 'url': 'https://github.com/TeamParoksya/DemoDeploy'
+[2023-02-24 10:43:01Z INFO CommandLineParser] parsing argument
+[2023-02-24 10:43:01Z INFO CommandLineParser] HasArgs: True
+[2023-02-24 10:43:01Z INFO CommandLineParser] arg: token
+[2023-02-24 10:43:01Z INFO CommandLineParser] parsing argument
+[2023-02-24 10:43:01Z INFO CommandLineParser] HasArgs: True
+[2023-02-24 10:43:01Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-02-24 10:43:01Z INFO Listener] Arguments parsed
+[2023-02-24 10:43:01Z INFO Runner] ExecuteCommand
+[2023-02-24 10:43:01Z INFO ConfigurationStore] currentAssemblyLocation: H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin\Runner.Listener.dll
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO ConfigurationStore] binPath: H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO ConfigurationStore] RootFolder: H:\Jaydeep New\Web Api\DemoDeploy\actions-runner
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO HostContext] Well known config file 'Runner': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.runner'
+[2023-02-24 10:43:01Z INFO ConfigurationStore] ConfigFilePath: H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.runner
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO HostContext] Well known config file 'Credentials': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials'
+[2023-02-24 10:43:01Z INFO ConfigurationStore] CredFilePath: H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO HostContext] Well known config file 'MigratedCredentials': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_migrated'
+[2023-02-24 10:43:01Z INFO ConfigurationStore] MigratedCredFilePath: H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_migrated
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:01Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:01Z INFO HostContext] Well known config file 'Service': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.service'
+[2023-02-24 10:43:01Z INFO ConfigurationStore] ServiceConfigFilePath: H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.service
+[2023-02-24 10:43:01Z INFO CommandSettings] Flag 'help': 'False'
+[2023-02-24 10:43:01Z INFO CommandSettings] Flag 'version': 'False'
+[2023-02-24 10:43:01Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-02-24 10:43:01Z INFO CommandSettings] Flag 'check': 'False'
+[2023-02-24 10:43:01Z INFO CommandSettings] Command 'configure': 'True'
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: 
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE: |                       
+[2023-02-24 10:43:01Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE:                         |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-02-24 10:43:01Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-02-24 10:43:01Z INFO ConfigurationManager] ConfigureAsync
+[2023-02-24 10:43:01Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-02-24 10:43:01Z INFO ConfigurationStore] IsConfigured()
+[2023-02-24 10:43:01Z INFO ConfigurationStore] IsConfigured: False
+[2023-02-24 10:43:01Z INFO ConfigurationManager] Is configured: False
+[2023-02-24 10:43:01Z INFO CommandSettings] Arg 'url': 'https://github.com/TeamParoksya/DemoDeploy'
+[2023-02-24 10:43:01Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-02-24 10:43:01Z INFO CommandSettings] Arg 'token': '***'
+[2023-02-24 10:43:01Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-02-24 10:43:01Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (D38C:7F0A:489F65:545FC6:63F894B5)
+[2023-02-24 10:43:01Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-02-24 10:43:01Z INFO RunnerServer] EstablishVssConnection
+[2023-02-24 10:43:01Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-02-24 10:43:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-24 10:43:01Z INFO RunnerServer] EstablishVssConnection
+[2023-02-24 10:43:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-24 10:43:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-24 10:43:01Z INFO RunnerServer] EstablishVssConnection
+[2023-02-24 10:43:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-24 10:43:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-24 10:43:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-24 10:43:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-24 10:43:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-24 10:43:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-24 10:43:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-24 10:43:03Z INFO Terminal] WRITE LINE: 
+[2023-02-24 10:43:03Z INFO ConfigurationManager] Test Connection complete.
+[2023-02-24 10:43:03Z INFO HostContext] Well known directory 'Bin': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\bin'
+[2023-02-24 10:43:03Z INFO HostContext] Well known directory 'Root': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner'
+[2023-02-24 10:43:03Z INFO HostContext] Well known config file 'RSACredentials': 'H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_rsaparams'
+[2023-02-24 10:43:03Z INFO RSAEncryptedFileKeyManager] Found existing RSA key parameters file H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_rsaparams
+[2023-02-24 10:43:03Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-02-24 10:43:03Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-24 10:43:03Z INFO PromptManager] ReadValue
+[2023-02-24 10:43:03Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-02-24 10:43:03Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-02-24 10:43:03Z INFO Terminal] READ LINE
+[2023-02-24 10:43:07Z INFO Terminal] Read value: ''
+[2023-02-24 10:43:07Z INFO PromptManager] Falling back to the default: 'Default'
+[2023-02-24 10:43:07Z INFO Terminal] WRITE LINE: 
+[2023-02-24 10:43:07Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2023-02-24 10:43:07Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-02-24 10:43:07Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-02-24 10:43:07Z INFO CommandSettings] Arg 'name': ''
+[2023-02-24 10:43:07Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-24 10:43:07Z INFO PromptManager] ReadValue
+[2023-02-24 10:43:07Z INFO Terminal] WRITE: Enter the name of runner: 
+[2023-02-24 10:43:07Z INFO Terminal] WRITE: [press Enter for PAROKSYA] 
+[2023-02-24 10:43:07Z INFO Terminal] READ LINE
+[2023-02-24 10:43:12Z INFO Terminal] Read value: ''
+[2023-02-24 10:43:12Z INFO PromptManager] Falling back to the default: 'PAROKSYA'
+[2023-02-24 10:43:12Z INFO Terminal] WRITE LINE: 
+[2023-02-24 10:43:12Z INFO CommandSettings] Arg 'labels': ''
+[2023-02-24 10:43:12Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-24 10:43:12Z INFO PromptManager] ReadValue
+[2023-02-24 10:43:12Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2023-02-24 10:43:12Z INFO Terminal] WRITE: [press Enter to skip] 
+[2023-02-24 10:43:12Z INFO Terminal] READ LINE
+[2023-02-24 10:43:25Z INFO Terminal] Read value: ''
+[2023-02-24 10:43:25Z INFO Terminal] WRITE LINE: 
+[2023-02-24 10:43:26Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-02-24 10:43:26Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-02-24 10:43:26Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-02-24 10:43:26Z INFO ConfigurationStore] Saving OAuth credential @ H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials
+[2023-02-24 10:43:26Z INFO ConfigurationStore] Credentials Saved.
+[2023-02-24 10:43:26Z INFO ConfigurationStore] HasCredentials()
+[2023-02-24 10:43:26Z INFO ConfigurationStore] stored True
+[2023-02-24 10:43:26Z INFO CredentialManager] GetCredentialProvider
+[2023-02-24 10:43:26Z INFO CredentialManager] Creating type OAuth
+[2023-02-24 10:43:26Z INFO CredentialManager] Creating credential type: OAuth
+[2023-02-24 10:43:26Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_rsaparams
+[2023-02-24 10:43:26Z INFO RunnerServer] EstablishVssConnection
+[2023-02-24 10:43:26Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-02-24 10:43:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-24 10:43:26Z INFO RunnerServer] EstablishVssConnection
+[2023-02-24 10:43:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-24 10:43:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-24 10:43:26Z INFO RunnerServer] EstablishVssConnection
+[2023-02-24 10:43:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-24 10:43:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-24 10:43:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-24 10:43:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-24 10:43:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-24 10:43:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_rsaparams
+[2023-02-24 10:43:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_rsaparams
+[2023-02-24 10:43:28Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-02-24 10:43:29Z INFO CommandSettings] Arg 'work': ''
+[2023-02-24 10:43:29Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-24 10:43:29Z INFO PromptManager] ReadValue
+[2023-02-24 10:43:29Z INFO Terminal] WRITE: Enter name of work folder: 
+[2023-02-24 10:43:29Z INFO Terminal] WRITE: [press Enter for _work] 
+[2023-02-24 10:43:29Z INFO Terminal] READ LINE
+[2023-02-24 10:43:34Z INFO Terminal] Read value: ''
+[2023-02-24 10:43:34Z INFO PromptManager] Falling back to the default: '_work'
+[2023-02-24 10:43:34Z INFO ConfigurationStore] Saving runner settings.
+[2023-02-24 10:43:34Z INFO ConfigurationStore] Settings Saved.
+[2023-02-24 10:43:34Z INFO Terminal] WRITE LINE: 
+[2023-02-24 10:43:34Z INFO Terminal] WRITE LINE: 
+[2023-02-24 10:43:34Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2023-02-24 10:43:34Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-24 10:43:34Z INFO PromptManager] ReadValue
+[2023-02-24 10:43:34Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2023-02-24 10:43:34Z INFO Terminal] WRITE: [press Enter for N] 
+[2023-02-24 10:43:34Z INFO Terminal] READ LINE
+[2023-02-24 10:43:47Z INFO Terminal] Read value: 'Y'
+[2023-02-24 10:43:47Z INFO ConfigurationManager] Configuring to run the agent as service
+[2023-02-24 10:43:47Z ERR  WindowsServiceControlManager] Needs Administrator privileges for configure runner as windows service.
+[2023-02-24 10:43:47Z ERR  Runner] System.Security.SecurityException: Needs Administrator privileges for configuring runner as windows service.
+   at GitHub.Runner.Listener.Configuration.WindowsServiceControlManager.ConfigureService(RunnerSettings settings, CommandSettings command)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2023-02-24 10:43:47Z ERR  Terminal] WRITE ERROR: Needs Administrator privileges for configuring runner as windows service.
+[2023-02-24 10:43:47Z INFO Listener] Runner execution has finished with return code 1

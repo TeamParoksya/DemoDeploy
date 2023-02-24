@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "PAROKSYA",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/NrKfQk3SLVzavsNzzvVeU1D9LklHix032qVh1TL70DvEPcU0kj",
+  "gitHubUrl": "https://github.com/TeamParoksya/DemoDeploy",
+  "workFolder": "_work"
+}

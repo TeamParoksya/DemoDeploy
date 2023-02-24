@@ -93,3 +93,14 @@ H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\S
 H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 H:\Jaydeep New\Web Api\DemoDeploy\obj\Debug\net6.0\DemoDeploy.MvcApplicationPartsAssemblyInfo.cs
 H:\Jaydeep New\Web Api\DemoDeploy\obj\Debug\net6.0\DemoDeploy.csproj.CopyComplete
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\RunnerService.exe.config
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.Common.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.Listener.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.Listener.runtimeconfig.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.PluginHost.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.PluginHost.runtimeconfig.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.Plugins.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.Sdk.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.Worker.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Runner.Worker.runtimeconfig.json
+H:\Jaydeep New\Web Api\DemoDeploy\bin\Debug\net6.0\actions-runner\bin\Sdk.deps.json
