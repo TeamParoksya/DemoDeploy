@@ -1,0 +1,30 @@
+name: Update Azure Serverless Asp.Net Pool
+
+# Sets the trigger to update when update is pushed to main branch
+on:
+  push:
+    branches: 
+      - main
+ 
+jobs:
+
+  # Job to install the scripts
+  ServerlessPool1:
+    # Easier to use GitHub-hosted runner if updating in GitHub
+    runs-on: windows-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      # Note that I am using latest version of action
+      - uses: actions/checkout@v2.4.0 
+
+      # install dbops PowerShell module
+      - name: Install dbops module
+        run: 'Install-Module -Name dbops -Force -PassThru'
+        
+      # Run migration-based scripts
+      - name: Run migration-based scripts
+        run: |
+          $SecurePw=ConvertTo-SecureString ${{ secrets.Pw }} –asplaintext –force
+          Install-DBOScript -ScriptPath scripts -sqlinstance ${{ secrets.sqlinstance }} -Database ${{ secrets.database }} -UserName ${{ secrets.UserName }} -Password $SecurePw -SchemaVersionTable $null
