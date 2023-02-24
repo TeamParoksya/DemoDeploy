@@ -1,6 +1,5 @@
 name: Update Azure Serverless Asp.Net Pool
 
-# Sets the trigger to update when update is pushed to main branch
 on:
   push:
     branches: 
