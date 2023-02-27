@@ -124,3 +124,13 @@
 [2023-02-24 12:14:52Z INFO MessageListener] No message retrieved from session '7c59a38b-d4d1-4a22-96f0-bbf042afe8cb' within last 30 minutes.
 [2023-02-24 12:34:59Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_rsaparams
 [2023-02-24 12:34:59Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-02-24 12:45:04Z INFO MessageListener] No message retrieved from session '7c59a38b-d4d1-4a22-96f0-bbf042afe8cb' within last 30 minutes.
+[2023-02-24 13:15:14Z INFO MessageListener] No message retrieved from session '7c59a38b-d4d1-4a22-96f0-bbf042afe8cb' within last 30 minutes.
+[2023-02-24 13:30:19Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file H:\Jaydeep New\Web Api\DemoDeploy\actions-runner\.credentials_rsaparams
+[2023-02-24 13:30:20Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-02-24 13:45:26Z INFO MessageListener] No message retrieved from session '7c59a38b-d4d1-4a22-96f0-bbf042afe8cb' within last 30 minutes.
+[2023-02-24 13:56:56Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-02-24 13:56:56Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/NrKfQk3SLVzavsNzzvVeU1D9LklHix032qVh1TL70DvEPcU0kj/_apis/distributedtask/pools/1/messages?sessionId=7c59a38b-d4d1-4a22-96f0-bbf042afe8cb&status=Online&runnerVersion=2.301.1 has been cancelled.
+[2023-02-24 13:56:56Z INFO MessageListener] Get next message has been cancelled.
+[2023-02-24 13:56:56Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-02-24 13:56:57Z INFO Listener] Runner execution been cancelled.
