@@ -1,4 +1,15 @@
 H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\DemoDeploy.exe
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\RunnerService.exe.config
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.Common.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.Listener.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.Listener.runtimeconfig.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.PluginHost.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.PluginHost.runtimeconfig.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.Plugins.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.Sdk.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.Worker.deps.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Runner.Worker.runtimeconfig.json
+H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\actions-runner\bin\Sdk.deps.json
 H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
 H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.json
 H:\Jaydeep New\Web Api\DemoDeploy\obj\Release\net6.0\PubTmp\Out\DemoDeploy.dll
